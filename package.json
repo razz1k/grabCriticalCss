@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "critical": "^3.0.1",
+    "purgecss": "^4.0.3"
+  }
+}
